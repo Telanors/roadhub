@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716594313604",
+      "type": "subtopicNode",
+      "position": {
+        "x": 270,
+        "y": 450
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 133,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 270,
+        "y": 450
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716302092216",
+      "type": "topicNode",
+      "position": {
+        "x": 410,
+        "y": 210
+      },
+      "data": {
+        "label": "topicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 105,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 410,
+        "y": 210
+      }
+    },
+    {
+      "id": "randomnode_1716302094443",
+      "type": "subtopicNode",
+      "position": {
+        "x": 620,
+        "y": 420
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": "Раваываыв\n<h1>Hfdsfsdfsd</h1>\n<a href=\"http://vk.com\" target=\"_blank\">VK</a>"
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 131,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 620,
+        "y": 420
+      },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716302092216",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716302094443",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716302092216right-source-randomnode_1716302094443left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": -52.25947014531312,
+    "y": -2.8003841274168053,
+    "zoom": 1.1230512631195073
+  }
+}

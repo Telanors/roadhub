@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716306593059",
+      "type": "topicNode",
+      "position": {
+        "x": 350,
+        "y": 230
+      },
+      "data": {
+        "label": "1",
+        "content": "<h1>ЭЩКЕРЕ</h1>\n<a href=\"http://vk.com\" target=\"_blank\">VK</a>"
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 45,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 350,
+        "y": 230
+      }
+    },
+    {
+      "id": "randomnode_1716306593763",
+      "type": "subtopicNode",
+      "position": {
+        "x": 680,
+        "y": 230
+      },
+      "data": {
+        "label": "2",
+        "content": "<h1>ЭЩКЕРЕ</h1>\n<a href=\"http://vk.com\" target=\"_blank\">VK</a>\n<h1>ЭЩКЕРЕ</h1>\n<a href=\"http://vk.com\" target=\"_blank\">VK</a><h1>ЭЩКЕРЕ</h1>\n<a href=\"http://vk.com\" target=\"_blank\">VK</a><h1>ЭЩКЕРЕ</h1>\n<a href=\"http://vk.com\" target=\"_blank\">VK</a>"
+      },
+      "style": {
+        "zIndex": 4
+      },
+      "width": 45,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 680,
+        "y": 230
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716306594469",
+      "type": "nameNode",
+      "position": {
+        "x": 330,
+        "y": 120
+      },
+      "data": {
+        "label": "Гайд",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 3
+      },
+      "width": 81,
+      "height": 36,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 330,
+        "y": 120
+      }
+    },
+    {
+      "id": "randomnode_1716306595267",
+      "type": "sectionNode",
+      "position": {
+        "x": 330,
+        "y": 160
+      },
+      "data": {
+        "label": "",
+        "content": ""
+      },
+      "style": {
+        "zIndex": -1,
+        "width": 430,
+        "height": 200
+      },
+      "className": "w-40 h-40 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 430,
+      "height": 200,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 330,
+        "y": 160
+      },
+      "dragging": false,
+      "resizing": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716306593059",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716306593763",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716306593059right-source-randomnode_1716306593763left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": 0,
+    "y": -1,
+    "zoom": 1
+  }
+}

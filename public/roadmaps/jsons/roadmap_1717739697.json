@@ -1,0 +1,218 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1717739556153",
+      "type": "topicNode",
+      "position": {
+        "x": 320,
+        "y": 300
+      },
+      "data": {
+        "label": "начало",
+        "content": "<h3>Освойте инструменты разработки</h3> <p>Помимо изучения языков программирования и игровых движков, важно освоить различные инструменты, которые помогут вам создавать игры более эффективно и эффектно. Вот несколько ключевых инструментов, которые стоит изучить:</p> <ul> <li>Графические редакторы: Используйте программы типа Photoshop, Illustrator или GIMP для создания графики, текстур и анимаций для ваших игр.</li> <li>Аудио редакторы: Овладейте программами типа Audacity или Adobe Audition для создания и редактирования звуковых эффектов.</li> <li>Редакторы уровней: Изучите инструменты для создания и редактирования игровых уровней, такие как Tiled или Unity Tilemap Editor.</li> <li>Интегрированные среды разработки (IDE): Используйте среды разработки, такие как Visual Studio, IntelliJ IDEA или Visual Studio Code для написания и отладки кода.</li> <li>Инструменты для тестирования: Ознакомьтесь с инструментами для тестирования игр, такими как Unity Test Runner или Unreal Engine's Automation System, чтобы обеспечить качество вашего продукта.</li> </ul>"
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 88,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 320,
+        "y": 300
+      }
+    },
+    {
+      "id": "randomnode_1717739587300",
+      "type": "subtopicNode",
+      "position": {
+        "x": 590,
+        "y": 450
+      },
+      "data": {
+        "label": "Тема №1",
+        "content": "<h3>Освойте инструменты разработки</h3> <p>Помимо изучения языков программирования и игровых движков, важно освоить различные инструменты, которые помогут вам создавать игры более эффективно и эффектно. Вот несколько ключевых инструментов, которые стоит изучить:</p> <ul> <li>Графические редакторы: Используйте программы типа Photoshop, Illustrator или GIMP для создания графики, текстур и анимаций для ваших игр.</li> <li>Аудио редакторы: Овладейте программами типа Audacity или Adobe Audition для создания и редактирования звуковых эффектов.</li> <li>Редакторы уровней: Изучите инструменты для создания и редактирования игровых уровней, такие как Tiled или Unity Tilemap Editor.</li> <li>Интегрированные среды разработки (IDE): Используйте среды разработки, такие как Visual Studio, IntelliJ IDEA или Visual Studio Code для написания и отладки кода.</li> <li>Инструменты для тестирования: Ознакомьтесь с инструментами для тестирования игр, такими как Unity Test Runner или Unreal Engine's Automation System, чтобы обеспечить качество вашего продукта.</li> </ul>"
+      },
+      "style": {
+        "zIndex": 2
+      },
+      "width": 103,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 590,
+        "y": 450
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1717739608908",
+      "type": "topicNode",
+      "position": {
+        "x": 650,
+        "y": 300
+      },
+      "data": {
+        "label": "конец",
+        "content": "<h3>Освойте инструменты разработки</h3> <p>Помимо изучения языков программирования и игровых движков, важно освоить различные инструменты, которые помогут вам создавать игры более эффективно и эффектно. Вот несколько ключевых инструментов, которые стоит изучить:</p> <ul> <li>Графические редакторы: Используйте программы типа Photoshop, Illustrator или GIMP для создания графики, текстур и анимаций для ваших игр.</li> <li>Аудио редакторы: Овладейте программами типа Audacity или Adobe Audition для создания и редактирования звуковых эффектов.</li> <li>Редакторы уровней: Изучите инструменты для создания и редактирования игровых уровней, такие как Tiled или Unity Tilemap Editor.</li> <li>Интегрированные среды разработки (IDE): Используйте среды разработки, такие как Visual Studio, IntelliJ IDEA или Visual Studio Code для написания и отладки кода.</li> <li>Инструменты для тестирования: Ознакомьтесь с инструментами для тестирования игр, такими как Unity Test Runner или Unreal Engine's Automation System, чтобы обеспечить качество вашего продукта.</li> </ul>"
+      },
+      "style": {
+        "zIndex": 3
+      },
+      "width": 81,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 650,
+        "y": 300
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1717739623330",
+      "type": "sectionNode",
+      "position": {
+        "x": 280,
+        "y": 280
+      },
+      "data": {
+        "label": "",
+        "content": ""
+      },
+      "style": {
+        "zIndex": -1,
+        "width": 480,
+        "height": 110
+      },
+      "className": "w-40 h-40 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 480,
+      "height": 110,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 280,
+        "y": 280
+      },
+      "dragging": false,
+      "resizing": false
+    },
+    {
+      "id": "randomnode_1717739636118",
+      "type": "nameNode",
+      "position": {
+        "x": 280,
+        "y": 240
+      },
+      "data": {
+        "label": "Базовые",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 4
+      },
+      "width": 134,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 280,
+        "y": 240
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1717739645982",
+      "type": "sectionNode",
+      "position": {
+        "x": 560,
+        "y": 430
+      },
+      "data": {
+        "label": "",
+        "content": ""
+      },
+      "style": {
+        "zIndex": -3,
+        "width": 170,
+        "height": 110
+      },
+      "className": "w-40 h-40 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 170,
+      "height": 110,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 560,
+        "y": 430
+      },
+      "resizing": false
+    },
+    {
+      "id": "randomnode_1717739654796",
+      "type": "nameNode",
+      "position": {
+        "x": 560,
+        "y": 390
+      },
+      "data": {
+        "label": "Доп.",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 5
+      },
+      "width": 72,
+      "height": 36,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 560,
+        "y": 390
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1717739556153",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1717739587300",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1717739556153right-source-randomnode_1717739587300left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1717739556153",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1717739608908",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1717739556153right-source-randomnode_1717739608908left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": -1,
+    "y": 1,
+    "zoom": 1
+  }
+}

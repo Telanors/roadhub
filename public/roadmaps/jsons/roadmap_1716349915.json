@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716349452399",
+      "type": "topicNode",
+      "position": {
+        "x": 330,
+        "y": 270
+      },
+      "data": {
+        "label": "topicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 107,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 330,
+        "y": 270
+      }
+    },
+    {
+      "id": "randomnode_1716349453035",
+      "type": "topicNode",
+      "position": {
+        "x": 630,
+        "y": 480
+      },
+      "data": {
+        "label": "topicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 2
+      },
+      "width": 107,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 630,
+        "y": 480
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716349452399",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716349453035",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716349452399right-source-randomnode_1716349453035left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

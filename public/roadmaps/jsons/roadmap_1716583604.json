@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716583596785",
+      "type": "subtopicNode",
+      "position": {
+        "x": 330,
+        "y": 330
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 133,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 330,
+        "y": 330
+      }
+    },
+    {
+      "id": "randomnode_1716583597510",
+      "type": "subtopicNode",
+      "position": {
+        "x": 640,
+        "y": 430
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 2
+      },
+      "width": 133,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 640,
+        "y": 430
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716583596785",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716583597510",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716583596785right-source-randomnode_1716583597510left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

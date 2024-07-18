@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716404228753",
+      "type": "subtopicNode",
+      "position": {
+        "x": 900,
+        "y": 400
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": "123"
+      },
+      "style": {
+        "zIndex": 6
+      },
+      "width": 133,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 900,
+        "y": 400
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716404257621",
+      "type": "topicNode",
+      "position": {
+        "x": 940,
+        "y": 190
+      },
+      "data": {
+        "label": "topicnode123123",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 3
+      },
+      "width": 161,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 940,
+        "y": 190
+      }
+    },
+    {
+      "id": "randomnode_1716404258334",
+      "type": "nameNode",
+      "position": {
+        "x": 540,
+        "y": 170
+      },
+      "data": {
+        "label": "namenode1231231",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 4
+      },
+      "width": 262,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 540,
+        "y": 170
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716404267874",
+      "type": "topicNode",
+      "position": {
+        "x": 530,
+        "y": 260
+      },
+      "data": {
+        "label": "VK",
+        "content": "hfasfasdasd<br />\n<h1>12312312312</h1>\nhfasfasdasd<br />\n<a href=\"http://vk.com\" target=\"_blank\">VK</a>"
+      },
+      "style": {
+        "zIndex": 5
+      },
+      "width": 56,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 530,
+        "y": 260
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716404267874",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716404228753",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716404267874right-source-randomnode_1716404228753left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": -245.6006840588126,
+    "y": 4.500171537019355,
+    "zoom": 1.1486983549970358
+  }
+}

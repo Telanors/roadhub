@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1717429800784",
+      "type": "topicNode",
+      "position": {
+        "x": 450,
+        "y": 220
+      },
+      "data": {
+        "label": "topicnode",
+        "content": ""
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 108,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 450,
+        "y": 220
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

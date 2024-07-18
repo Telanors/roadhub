@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716247147908",
+      "type": "topicNode",
+      "position": {
+        "x": 230,
+        "y": 190
+      },
+      "data": {
+        "label": "topicnode",
+        "content": "45645"
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 107,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 230,
+        "y": 190
+      }
+    },
+    {
+      "id": "randomnode_1716247148470",
+      "type": "topicNode",
+      "position": {
+        "x": 600,
+        "y": 380
+      },
+      "data": {
+        "label": "topicnode",
+        "content": "<h2>ХАХАХАХАХАХХАХАХАХ</h2>\n<a href=\"http://youtube.com\" target=\"_blank\">ШКЛЮХА</a>"
+      },
+      "style": {
+        "zIndex": 2
+      },
+      "width": 107,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 600,
+        "y": 380
+      }
+    },
+    {
+      "id": "randomnode_1716247149003",
+      "type": "subtopicNode",
+      "position": {
+        "x": 260,
+        "y": 520
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": "123"
+      },
+      "style": {
+        "zIndex": 3
+      },
+      "width": 133,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 260,
+        "y": 520
+      },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716247147908",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716247148470",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716247147908right-source-randomnode_1716247148470left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1716247147908",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716247149003",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(120 113 108)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(120 113 108)"
+      },
+      "id": "reactflow__edge-randomnode_1716247147908right-source-randomnode_1716247149003left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": 232,
+    "y": 65,
+    "zoom": 1
+  }
+}

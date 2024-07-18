@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716815454637",
+      "type": "subtopicNode",
+      "position": {
+        "x": 460,
+        "y": 450
+      },
+      "data": {
+        "label": "subtopicnode",
+        "content": "<a href=\"http://vk.com\" target=\"_blank\">VK</a>"
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 133,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 460,
+        "y": 450
+      }
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

@@ -1,0 +1,57 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class TagSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $tags = [
+            'gameplay',
+            'character-design',
+            'level-design',
+            'game-mechanics',
+            'storytelling',
+            'graphics',
+            'animation',
+            'sound-design',
+            'programming',
+            'game-engine',
+            'physics',
+            'user-interface',
+            'multiplayer',
+            'virtual-reality',
+            'artificial-intelligence',
+            'audio-engineering',
+            'game-testing',
+            'game-balancing',
+            'game-theory',
+            'narrative-design',
+            'game-economics',
+            'game-marketing',
+            'game-monetization',
+            'indie-games',
+            'mobile-games',
+            'console-games',
+            'pc-games',
+            'cloud-gaming',
+            'esports',
+            'game-development-tools',
+        ];
+
+        for ($i = 0; $i < 30; $i++) {
+            $tagName = $tags[$i];
+            DB::table('tags')->insert([
+                'name' => $tagName,
+            ]);
+        }
+    }
+}

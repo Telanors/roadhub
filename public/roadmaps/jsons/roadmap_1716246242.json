@@ -1,0 +1,670 @@
+{
+  "nodes": [
+    {
+      "id": "randomnode_1716156829237",
+      "type": "topicNode",
+      "position": {
+        "x": 140,
+        "y": 340
+      },
+      "data": {
+        "label": "Начало",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 1
+      },
+      "width": 92,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 140,
+        "y": 340
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156834530",
+      "type": "topicNode",
+      "position": {
+        "x": 480,
+        "y": 70
+      },
+      "data": {
+        "label": "Середина",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 2
+      },
+      "width": 110,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 480,
+        "y": 70
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156847234",
+      "type": "topicNode",
+      "position": {
+        "x": 740,
+        "y": 250
+      },
+      "data": {
+        "label": "Конец",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 3
+      },
+      "width": 81,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 740,
+        "y": 250
+      }
+    },
+    {
+      "id": "randomnode_1716156865353",
+      "type": "sectionNode",
+      "position": {
+        "x": 340,
+        "y": 240
+      },
+      "data": {
+        "label": "",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": -4,
+        "width": 510,
+        "height": 80
+      },
+      "className": "w-20 h-20 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 510,
+      "height": 80,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 340,
+        "y": 240
+      },
+      "dragging": false,
+      "resizing": false
+    },
+    {
+      "id": "randomnode_1716156872602",
+      "type": "nameNode",
+      "position": {
+        "x": 340,
+        "y": 200
+      },
+      "data": {
+        "label": "База",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 5
+      },
+      "width": 84,
+      "height": 36,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 340,
+        "y": 200
+      }
+    },
+    {
+      "id": "randomnode_1716156886393",
+      "type": "subtopicNode",
+      "position": {
+        "x": 280,
+        "y": 590
+      },
+      "data": {
+        "label": "Тема №1",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 6
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 280,
+        "y": 590
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156909585",
+      "type": "sectionNode",
+      "position": {
+        "x": 1010,
+        "y": 250
+      },
+      "data": {
+        "label": "",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": -7,
+        "width": 280,
+        "height": 220
+      },
+      "className": "w-20 h-20 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 280,
+      "height": 220,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1010,
+        "y": 250
+      },
+      "dragging": false,
+      "resizing": false
+    },
+    {
+      "id": "randomnode_1716156914102",
+      "type": "nameNode",
+      "position": {
+        "x": 550,
+        "y": 350
+      },
+      "data": {
+        "label": "Дополнительно",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 8
+      },
+      "width": 266,
+      "height": 36,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 550,
+        "y": 350
+      }
+    },
+    {
+      "id": "randomnode_1716156930167",
+      "type": "subtopicNode",
+      "position": {
+        "x": 490,
+        "y": 420
+      },
+      "data": {
+        "label": "Тема №2",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 9
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 490,
+        "y": 420
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156942766",
+      "type": "subtopicNode",
+      "position": {
+        "x": 930,
+        "y": 470
+      },
+      "data": {
+        "label": "Тема №3",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 10
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 930,
+        "y": 470
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156946076",
+      "type": "subtopicNode",
+      "position": {
+        "x": 700,
+        "y": 470
+      },
+      "data": {
+        "label": "Тема №4",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 11
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 700,
+        "y": 470
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156948708",
+      "type": "subtopicNode",
+      "position": {
+        "x": 580,
+        "y": 540
+      },
+      "data": {
+        "label": "Тема №5",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 12
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 580,
+        "y": 540
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716156951310",
+      "type": "subtopicNode",
+      "position": {
+        "x": 700,
+        "y": 540
+      },
+      "data": {
+        "label": "Тема №6",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 13
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 700,
+        "y": 540
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157012669",
+      "type": "subtopicNode",
+      "position": {
+        "x": 750,
+        "y": 50
+      },
+      "data": {
+        "label": "Тема №1",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 14
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": 750,
+        "y": 50
+      }
+    },
+    {
+      "id": "randomnode_1716157019302",
+      "type": "subtopicNode",
+      "position": {
+        "x": 870,
+        "y": 50
+      },
+      "data": {
+        "label": "Тема №2",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 15
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 870,
+        "y": 50
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157025168",
+      "type": "subtopicNode",
+      "position": {
+        "x": 750,
+        "y": 120
+      },
+      "data": {
+        "label": "Тема №3",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 16
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 750,
+        "y": 120
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157029579",
+      "type": "subtopicNode",
+      "position": {
+        "x": 870,
+        "y": 120
+      },
+      "data": {
+        "label": "Тема №4",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 17
+      },
+      "width": 104,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 870,
+        "y": 120
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157035602",
+      "type": "sectionNode",
+      "position": {
+        "x": 730,
+        "y": 40
+      },
+      "data": {
+        "label": "",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": -5,
+        "width": 270,
+        "height": 150
+      },
+      "className": "w-20 h-20 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 270,
+      "height": 150,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 730,
+        "y": 40
+      },
+      "dragging": false,
+      "resizing": false
+    },
+    {
+      "id": "randomnode_1716157068076",
+      "type": "nameNode",
+      "position": {
+        "x": 740,
+        "y": 0
+      },
+      "data": {
+        "label": "Доп. база",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 18
+      },
+      "width": 162,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 740,
+        "y": 0
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157083891",
+      "type": "subtopicNode",
+      "position": {
+        "x": 910,
+        "y": 250
+      },
+      "data": {
+        "label": "Глава №1",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 19
+      },
+      "width": 109,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 910,
+        "y": 250
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157108015",
+      "type": "subtopicNode",
+      "position": {
+        "x": 1060,
+        "y": 250
+      },
+      "data": {
+        "label": "Глава  №2",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 20
+      },
+      "width": 109,
+      "height": 60,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1060,
+        "y": 250
+      },
+      "dragging": false
+    },
+    {
+      "id": "randomnode_1716157123425",
+      "type": "sectionNode",
+      "position": {
+        "x": 880,
+        "y": 240
+      },
+      "data": {
+        "label": "",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": -6,
+        "width": 310,
+        "height": 80
+      },
+      "className": "w-20 h-20 rounded-lg border border-2 border-violet-500 shadow-md bg-gradient-to-r from-blue-100 to-violet-100",
+      "width": 310,
+      "height": 80,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 880,
+        "y": 240
+      },
+      "dragging": false,
+      "resizing": false
+    },
+    {
+      "id": "randomnode_1716157133951",
+      "type": "nameNode",
+      "position": {
+        "x": 880,
+        "y": 200
+      },
+      "data": {
+        "label": "Закрепление",
+        "content": "fdgdfgdfgdfgdfg"
+      },
+      "style": {
+        "zIndex": 22
+      },
+      "width": 224,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 880,
+        "y": 200
+      },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "randomnode_1716156829237",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716156834530",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(100 116 139)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(100 116 139)"
+      },
+      "id": "reactflow__edge-randomnode_1716156829237right-source-randomnode_1716156834530left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1716156834530",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716156847234",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(100 116 139)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(100 116 139)"
+      },
+      "id": "reactflow__edge-randomnode_1716156834530right-source-randomnode_1716156847234left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1716156829237",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716156909585",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(100 116 139)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(100 116 139)"
+      },
+      "id": "reactflow__edge-randomnode_1716156829237right-source-randomnode_1716156909585left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1716156834530",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716157035602",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(100 116 139)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(100 116 139)"
+      },
+      "id": "reactflow__edge-randomnode_1716156834530right-source-randomnode_1716157035602left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1716156847234",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716157083891",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(100 116 139)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(100 116 139)"
+      },
+      "id": "reactflow__edge-randomnode_1716156847234right-source-randomnode_1716157083891left-target",
+      "selected": false
+    },
+    {
+      "source": "randomnode_1716157083891",
+      "sourceHandle": "right-source",
+      "target": "randomnode_1716157108015",
+      "targetHandle": "left-target",
+      "type": "smoothstep",
+      "markerEnd": {
+        "type": "arrow",
+        "width": 20,
+        "height": 20,
+        "color": "rgb(100 116 139)"
+      },
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "rgb(100 116 139)"
+      },
+      "id": "reactflow__edge-randomnode_1716157083891right-source-randomnode_1716157108015left-target",
+      "selected": false
+    }
+  ],
+  "viewport": {
+    "x": -155.5324537139736,
+    "y": 80.69118233240101,
+    "zoom": 1.1486983549970349
+  }
+}

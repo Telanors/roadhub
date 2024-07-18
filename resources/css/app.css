@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body,
+html {
+    font-family: "Roboto", sans-serif !important;
+} */
+
+.flex-container-100vh {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.flex-container-100vw {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+.flex-content {
+    flex: 1;
+}
+.height-100 {
+    height: 100%;
+}
+
+.react-flow__edge.selected .react-flow__edge-path,
+.react-flow__edge:focus .react-flow__edge-path,
+.react-flow__edge:focus-visible .react-flow__edge-path {
+    stroke: rgb(59 130 246) !important;
+    stroke-width: 3 !important;
+}
+
+.publish-modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    outline: none;
+}
+.MuiInputBase-input:focus {
+    box-shadow: none !important;
+}
+.MuiMenu-paper {
+    border-radius: 0.75rem !important;
+}
+
+.html-canvas {
+    background-color: white;
+}
+
+.html-canvas h1 {
+    font-size: 2em;
+}
+
+.html-canvas h2 {
+    font-size: 1.75em;
+}
+
+.html-canvas h3 {
+    font-size: 1.5em;
+}
+
+.html-canvas h4 {
+    font-size: 1.25em;
+}
+
+.html-canvas h5 {
+    font-size: 1em;
+}
+
+.html-canvas h6 {
+    font-size: 0.875em;
+}
+
+.html-canvas a {
+    color: blue;
+    text-decoration: none;
+}
+
+.html-canvas a:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+
+.html-canvas a:visited {
+    color: purple;
+}
+
+.html-canvas a:active {
+    color: red;
+}
+
+.html-canvas ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    padding-left: 20px;
+}
+
+.html-canvas ul li {
+    margin: 0;
+    padding: 5px 0;
+    line-height: 1.5;
+}
+
+.divider {
+    position: relative;
+    margin: 20px auto;
+    width: 100%;
+    top: -20px;
+}
+
+.divider-text {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+    outline: none;
+    border: 1px solid #444;
+    color: #444;
+    border-radius: 50px;
+    height: 46px;
+    line-height: 46px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #fff;
+    box-shadow: 0 7px 14px rgb(65 132 144 / 10%), 0 1px 3px rgb(0 0 0 / 8%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    padding: 0 25px;
+    z-index: 1;
+}
+
+.divider-line {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 1px;
+    background-color: #444;
+    z-index: 0;
+}
